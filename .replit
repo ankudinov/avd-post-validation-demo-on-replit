@@ -1,0 +1,2 @@
+language = "python"
+run = "pip3 install -r requirements.txt; export INTENDED_DATA_DIR=./tests/avd/data/intended; export CURRENT_DATA_DIR=./tests/avd/data/current_state; clear;  python3 /home/runner/.local/lib/python3.6/site-packages/ward/__main__.py"
