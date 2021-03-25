@@ -20,7 +20,7 @@ pyparsing==2.4.6
 pytest==5.4.1
 pytest-html==2.1.1
 pytest-metadata==1.8.0
-PyYAML==5.3.1
+PyYAML==5.4
 six==1.14.0
 termcolor==1.1.0
 toml==0.9.6
